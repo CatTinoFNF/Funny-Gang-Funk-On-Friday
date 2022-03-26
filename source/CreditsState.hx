@@ -46,6 +46,12 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+			['Funny-Gang-Funk-On-Friday'],
+			['Huma',		    'huma',		    'Producer',	 'https://www.youtube.com/c/huma139',	'0xFF73D1EC'],
+                        ['Dog',                    'dog',                  'Artist\Semi-coder\Charter',       'https://twitter.com/AdumbDawg',     '0xFF73D1EC'],
+                        ['Piscy',                    'piss',                   'Animator\Artist',          'https://twitter.com/Fishdatsmell',     '0xFF73D1EC'],
+                        ['Sally',                    'sally',                 'Emotional-supporter\Artist',          'https://www.facebook.com/Enderuwu',     '0xFF73D1EC'],
+                        ['CatTino',                     'luna',                 'Android Port',            'https://www.youtube.com/c/CatTinoFNF',     '0xFF73D1EC'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
